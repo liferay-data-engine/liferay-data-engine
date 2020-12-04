@@ -1,4 +1,4 @@
-### Hey, this is the github user from the App Builder Team 👋
+### Hey, this is the github user from the Data Engine Team 👋
 
 If you want to send changes in some of our components, please 
 send it to the [liferay-data-engine/liferay-portal repository][1] to be reviewed. 

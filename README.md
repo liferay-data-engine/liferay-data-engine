@@ -20,7 +20,7 @@ knowledge:
 - Product Owner: [@luiz-jardim][12]
 - QA: [@dereckalexander][8].
 
-Note: For a better communication, reach us directly on Slack. Also, check our channel ```t-app-builder```
+Note: For a better communication, reach us directly on Slack. Also, check our channel ```t-data-engine``
 
 [1]: https://github.com/liferay-data-engine/liferay-portal
 [2]: https://github.com/liferay-data-engine/liferay-portal/labels

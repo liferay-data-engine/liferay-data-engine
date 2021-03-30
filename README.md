@@ -14,20 +14,27 @@ labels (for example, if the PR needs some frontend review we add the
 The members of the team separated by area of
 knowledge:
 
-- Backend: [@marcelabc][3], [@jeyvison][4], [@mateussgn][10].
-- Designers: [@fapires][9], 
-- Frontend: [@oliveiraaraujo][5]
-- Product Owner: [@luiz-jardim][12]
-- QA: [@dereckalexander][8].
+- Backend: [@choliveira84][3], [@guilhermedcamacho][4], [@marcelabc][5], [@mateussgn][6], [@rodrigopaulino][7].
+- Designer: [@fapires][8], [@victorctrl][9].
+- Frontend: [@eliveltonr18][10], [@miltonmc][11].
+- Product Owner: [@luiz-jardim][12].
+- Project Manager: [@tayannasotero][13].
+- QAs: [@dereckalexander][14], [@emanuelfisilva][15].
 
 Note: For a better communication, reach us directly on Slack. Also, check our channel ``t-data-engine``
 
 [1]: https://github.com/liferay-data-engine/liferay-portal
 [2]: https://github.com/liferay-data-engine/liferay-portal/labels
-[3]: https://github.com/marcelabc
-[4]: https://github.com/jeyvison
-[5]: https://github.com/oliveiraaraujo
-[8]: https://github.com/dereckalexander
-[9]: https://github.com/fapires
-[10]: https://github.com/mateussgn
+[3]: https://github.com/choliveira84
+[4]: https://github.com/guilhermedcamacho
+[5]: https://github.com/marcelabc
+[6]: https://github.com/mateussgn
+[7]: https://github.com/rodrigopaulino
+[8]: https://github.com/fapires
+[9]: https://github.com/victorctrl
+[10]: https://github.com/eliveltonr18
+[11]: https://github.com/miltonmc
 [12]: https://github.com/luiz-jardim
+[13]: https://github.com/tayannasotero
+[14]: https://github.com/dereckalexander
+[15]: https://github.com/emanuelfisilva

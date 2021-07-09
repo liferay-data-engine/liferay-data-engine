@@ -16,7 +16,7 @@ knowledge:
 
 - Backend: [@choliveira84][3], [@guilhermedcamacho][4], [@marcelabc][5], [@rodrigopaulino][6].
 - Designer: [@fapires][7], [@victorctrl][8].
-- Frontend: [@eliveltonr18][9], [@miltonmc][10].
+- Frontend: [@eli-rlima][9], [@miltonmc][10].
 - Interns: [@danvb112][11], [@guivilarim][12], [@mateussgn][13], [@thaisfrota][14], [@victortrajano][15], 
 - Product Owner: [@luiz-jardim][16].
 - Project Manager: [@tayannasotero][17].
@@ -32,7 +32,7 @@ Note: For a better communication, reach us directly on Slack. Also, check our ch
 [6]: https://github.com/rodrigopaulino
 [7]: https://github.com/fapires
 [8]: https://github.com/victorctrl
-[9]: https://github.com/eliveltonr18
+[9]: https://github.com/eli-rlima
 [10]: https://github.com/miltonmc
 [11]: https://github.com/danvb112
 [12]: https://github.com/guivilarim
